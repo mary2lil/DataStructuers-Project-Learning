@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/QueueProject/Circular-Queue-Using-Array/CircularQueue/nbproject/private/
+/QueueProject/Circular-Queue-Using-Array/CircularQueue/build/
+/QueueProject/Queue_Using_LinkedList/Queue_LinkedList/nbproject/private/
+/QueueProject/Queue_Using_LinkedList/Queue_LinkedList/build/
+/QueueProject/java.util.Queue/Queue_BultIn/nbproject/private/
+/QueueProject/java.util.Queue/Queue_BultIn/build/
