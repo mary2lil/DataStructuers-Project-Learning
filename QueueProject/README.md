@@ -59,7 +59,7 @@ Queue/
 
 ## ✅ Author
 
-- 👩‍💻 Maryam Jihad  
+- 👩‍💻 Maryam Jehad  
 - Java beginner building and sharing small projects to learn  
 - Projects are 100% written from scratch during self-learning journey
 
