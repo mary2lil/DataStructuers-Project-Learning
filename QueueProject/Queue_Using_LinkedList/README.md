@@ -1,4 +1,4 @@
-#😎 Queue Implementation using Linked List in Java
+# 😎 Queue Implementation using Linked List in Java
 
 This project demonstrates a generic implementation of a **Queue** data structure using **Linked List** in Java. The class `NewQueue<T>` provides fundamental operations of a queue with additional helpful methods.
 
