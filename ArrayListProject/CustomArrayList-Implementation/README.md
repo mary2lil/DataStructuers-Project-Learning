@@ -38,7 +38,7 @@ System.out.println(list.contains("Go"));    // Output: false
 
 ---
 
-💡 Notes
+## 💡 Notes
 This class dynamically resizes the array when it's full.
 
 It supports generic types, so you can use it with any object type.
@@ -46,7 +46,7 @@ It supports generic types, so you can use it with any object type.
 Created as a learning project to understand data structures and Java OOP.
 
 ---
-
+## 
 This project is part of my learning journey to master Java and Data Structures.
 Feel free to explore, suggest improvements, or fork the repo 💛
 
