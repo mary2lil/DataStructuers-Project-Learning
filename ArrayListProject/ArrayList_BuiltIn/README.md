@@ -1,6 +1,6 @@
 # 📚 Student Grades Manager – Java ArrayList Project
 
-##👩‍💻 About the Project :
+## 👩‍💻 About the Project :
 
 This is a simple Java program that demonstrates how to use the built-in ArrayList class to manage a student's grades.
 
@@ -45,7 +45,7 @@ The output will display the calculated grade statistics for the student
 
 ---
 
-##🧪 Sample Output
+## 🧪 Sample Output
 Max mark = 100.0
 Min mark = 97.0
 Average = 98.67
