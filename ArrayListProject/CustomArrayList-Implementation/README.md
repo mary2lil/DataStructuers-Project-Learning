@@ -36,9 +36,8 @@ list.display();
 System.out.println(list.search("Python"));  // Output: 2
 System.out.println(list.contains("Go"));    // Output: false
 
-```\
-
----
+```ظ
+---/
 
 💡 Notes
 This class dynamically resizes the array when it's full.
